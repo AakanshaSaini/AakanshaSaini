@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Aakansha Saini</h1>
-<h3 align="center">Exploring Android Development and Web Development</h3>
+<h3 align="center">Exploring Cyber Security and Web Development</h3>
 
 <p align="left"> <a href="https://twitter.com/aakanshasaini_" target="blank"><img src="https://img.shields.io/twitter/follow/aakanshasaini_?logo=twitter&style=for-the-badge" alt="aakanshasaini_" /></a> </p>
 
